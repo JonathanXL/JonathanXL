@@ -17,5 +17,10 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm [JonathanXL]
 ## 💻 About Me
 - 🔭 Working on [JonathanXL](https://github.com/JonathanXL)
-- 🌱 Learning **Finance Economitric**|**Time Series**|**Machine Learning**|**Quant Trading**
+- 🌱 Learning **Finance Economitric**|**Time Series**|**Machine Learning**|**Quant Trading**!
+- ⚡ Language ![Python](https://img.shields.io/badge/Python-blue)
 - 📫 Reach me at [xljonathan180@gmail.com](xljonathan180@gmail.com)
+## 📃 Dynamic Access Iformation
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanXL&show_icons=true&theme=radical)
+
+
