@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm [JonathanXL]
 ## 💻 About Me
-- 🔭 Working on [Project Name](https://github.com/your_project)
+- 🔭 Working on [Project Name](https://github.com/JonathanXL)
 - 🌱 Learning **Finance Economitric**|**Time Series**|**Machine Learning**|**Quant Trading**
 - 📫 Reach me at [xljonathan180@gmail.com](xljonathan180@gmail.com)
