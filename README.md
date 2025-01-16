@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm [JonathanXL]
+## 💻 About Me
+- 🔭 Working on [Project Name](https://github.com/your_project)
+- 🌱 Learning **Finance Economitric**|**Time Series**|**Machine Learning**|**Quant Trading**
+- 📫 Reach me at [xljonathan180@gmail.com](xljonathan180@gmail.com)
